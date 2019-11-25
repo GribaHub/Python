@@ -33,7 +33,7 @@ def player_choice(player):
 def check(pl1,pl2):
     if pl1==pl2:
         print("Nobody win!")
-    elif pl1-pl2==-1:
+    elif pl1-pl2==-1 or pl1-pl2==2:
         print("Player 1 win, because " + tab[pl1] + " beats " + tab[pl2] + "!")
     else:
         print("Player 2 win, because " + tab[pl2] + " beats " + tab[pl1] + "!")
