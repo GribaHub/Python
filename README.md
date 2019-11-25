@@ -1,10 +1,9 @@
 # Python
 PRACTICE PYTHON - Beginner Python exercisies (https://www.practicepython.org/)
 
-Here are the exercises which I performed to self-learn and practice programming in Python.
-You can find commentary inside source files.
+Here are the exercises which I realized to self study and practice programming in Python. Comments are inside source files.
 
-All Exercises
+Exercises
 
 1: Character Input 
 2: Odd Or Even 
