@@ -1,7 +1,7 @@
 # Python
 PRACTICE PYTHON - Beginner Python exercisies (https://www.practicepython.org/)
 
-Here are the exercises which I realized to self study and practice programming in Python. Comments are inside source files.
+Here are the exercises which I realized to self-study and practice programming in Python. Comments are inside source files.
 
 Exercises
 
