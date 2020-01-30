@@ -5,10 +5,10 @@ Here are the exercises which I realized to self-study and practice programming i
 
 Exercises
 
-1: Character Input
-2: Odd Or Even
-3: List Less Than Ten
-4: Divisors
+1: Character Input  
+2: Odd Or Even  
+3: List Less Than Ten  
+4: Divisors  
 5: List Overlap  
 6: String Lists  
 7: List Comprehensions  
