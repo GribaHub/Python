@@ -5,10 +5,10 @@ Here are the exercises which I realized to self-study and practice programming i
 
 Exercises
 
-1: Character Input 
-2: Odd Or Even 
-3: List Less Than Ten  
-4: Divisors  
+1: Character Input
+2: Odd Or Even
+3: List Less Than Ten
+4: Divisors
 5: List Overlap  
 6: String Lists  
 7: List Comprehensions  
@@ -17,6 +17,9 @@ Exercises
 25.11.2019 - here I'm now. Still working on it! :)
 
 9: Guessing Game One   
+
+30.01.2020 - here I'm now. Still working on it! :)
+
 10: List Overlap Comprehensions  
 11: Check Primality Functions   
 12: List Ends 
