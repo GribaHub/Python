@@ -43,7 +43,7 @@ Exercises
 30: Pick Word  
 31: Guess Letters  
 32: Hangman  
-33: Birthday Dictionaries 
+33: Birthday Dictionaries   
 34: Birthday Json  
 35: Birthday Months  
 36: Birthday Plots   
