@@ -10,7 +10,6 @@
 # Scissors beats paper
 # Paper beats rock
 
-
 # clear shell
 def cls():
     print(50 * "\n")
