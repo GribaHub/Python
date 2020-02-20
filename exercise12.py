@@ -15,8 +15,8 @@ def cls():
 def new_list(list):
     b=[]
 
-    b.append(a[0])
-    b.append(a[len(a)-1])
+    b.append(list[0])
+    b.append(list[len(list)-1])
 
     return(b)
 
