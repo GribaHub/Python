@@ -24,6 +24,9 @@ Exercises
 11: Check Primality Functions   
 12: List Ends 
 13: Fibonacci  
+
+20.02.2020 - here I'm now. Still working on it! :)
+
 14: List Remove Duplicates  
 15: Reverse Word Order   
 16: Password Generator    
