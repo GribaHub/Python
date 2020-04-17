@@ -30,6 +30,9 @@ Exercises
 14: List Remove Duplicates  
 15: Reverse Word Order   
 16: Password Generator    
+
+17.04.2020 - here I'm now. Still working on it! :)
+
 17: Decode A Web Page    
 18: Cows And Bulls   
 19: Decode A Web Page Two    
