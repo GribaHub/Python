@@ -88,5 +88,5 @@ for h2 in soup.find_all('h2', class_='esl82me0'):
 
 print()
 print(50 * "*","\n")
-
+        
 html_decode("https://www.motostforky.pl/","h1","entry-title")
